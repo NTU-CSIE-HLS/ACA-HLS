@@ -26,9 +26,11 @@ The project is a collection of projects of the course "Advanced Computer Archite
 
 Note: The platform used by the projects, include PYNQ-Z2, and Xilinx U50.
 
-## Lab A: HLS Blue Book
+## Lab A
+HLS Blue Book
 
-## Lab B: Improved Existing Projects
+## Lab B
+Improved Existing Projects
 
 ## Final Projects
 

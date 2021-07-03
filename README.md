@@ -48,4 +48,18 @@ Lab B is about Improved Existing Projects.
 
 ## Final Projects
 
+|  Topics   | Slides  | Backup  |
+|  ----  | ----  | ----  |
+|  [Encrypted Computing](https://github.com/ttpssabc/ACA-Final-Team1-Encrypted-Computing)  | ----  | ----  |
+|  RISC-V CPU with Tomasulo Algorithm  | ----  | ----  |
+|  Hardware Design of Ciphers via HLS : the case of PRESENT  | ----  | ----  |
+|  SBM for HFT  | ----  | ----  |
+|  Efficient deconvolution with HLS.  | ----  | ----  |
+|  Optical flow  | ----  | ----  |
+|  Harris Corner Detector  | ----  | ----  |
+|  Implementation of Simulated Quantum Annealing using HLS  | ----  | ----  |
+|  System Design on Xilinx Algorithmic Trading  Platform  | ----  | ----  |
+|  COMET with branch predictor  | ----  | ----  |
+|  DNA Sequence Analysis Acceleration  | ----  | ----  |
+
 

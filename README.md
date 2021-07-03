@@ -34,16 +34,16 @@ Lab B is about Improved Existing Projects.
 
 |  Topics   | Slides  | Backup  |
 |  ----  | ----  | ----  |
-| swater  | link |link |
-| sha256  | link |link |
-| BNN  | link |link |
-| K-NN  | link |link |
-| beamf  | link |link |
-| Spare Matrix Vector  | link |link |
-| ethash  | link |link |
-| CORDIC  | link |link |
-| XAPP890 - Sobel Filter  | link |link |
-| point5  | link |link |
+| [swater](https://github.com/Leng-Kai/Smith-Waterman-HLS)  | link |link |
+| [sha256](https://github.com/allen880117/ACA-HLS-Lab-B-SHA256)  | link |link |
+| [BNN](https://github.com/eee4017/BNN-PYNQ)  | link |link |
+| [K-NN](https://github.com/kurimulion/ACA_LabB)  | link |link |
+| [beamf](https://github.com/e841018/beamformer)  | link |link |
+| [Spare Matrix Vector](https://github.com/kaiiiz/hls-spmv)  | link |link |
+| [ethash](https://github.com/agenda425/hls_ethash)  | link |link |
+| [CORDIC](https://github.com/405410605/LAB_B_CRODIC)  | link |link |
+| [XAPP890 - Sobel Filter](https://github.com/yuweitt/HLS_LabB_SobelFilter)  | link |link |
+| [point5](https://github.com/mouvemance/HLSLabB_point5)  | link |link |
 
 
 ## Final Projects

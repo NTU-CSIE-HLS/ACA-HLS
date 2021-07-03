@@ -34,7 +34,7 @@ Lab B is about Improved Existing Projects.
 
 |  Topics   | Slides  | Backup  |
 |  ----  | ----  | ----  |
-| [swater](https://github.com/Leng-Kai/Smith-Waterman-HLS)  | link |link |
+| [swater](https://github.com/Leng-Kai/Smith-Waterman-HLS)  | [link](.//LabB/Smith-Waterman%20Algorithm/Smith-Waterman%20Algorithm.pdf) |link |
 | [sha256](https://github.com/allen880117/ACA-HLS-Lab-B-SHA256)  | link |link |
 | [BNN](https://github.com/eee4017/BNN-PYNQ)  | link |link |
 | [K-NN](https://github.com/kurimulion/ACA_LabB)  | link |link |

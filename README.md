@@ -50,16 +50,16 @@ Lab B is about Improved Existing Projects.
 
 |  Topics   | Slides  | Backup  |
 |  ----  | ----  | ----  |
-|  [Encrypted Computing](https://github.com/ttpssabc/ACA-Final-Team1-Encrypted-Computing)  | ----  | ----  |
-|  RISC-V CPU with Tomasulo Algorithm  | ----  | ----  |
-|  Hardware Design of Ciphers via HLS : the case of PRESENT  | ----  | ----  |
-|  SBM for HFT  | ----  | ----  |
-|  Efficient deconvolution with HLS.  | ----  | ----  |
-|  Optical flow  | ----  | ----  |
-|  Harris Corner Detector  | ----  | ----  |
-|  Implementation of Simulated Quantum Annealing using HLS  | ----  | ----  |
-|  System Design on Xilinx Algorithmic Trading  Platform  | ----  | ----  |
-|  COMET with branch predictor  | ----  | ----  |
-|  DNA Sequence Analysis Acceleration  | ----  | ----  |
+|  [Encrypted Computing](https://github.com/ttpssabc/ACA-Final-Team1-Encrypted-Computing)  | [link](./Final/Encrypted%20Computing/Encrypted%20Computing.pdf)  | [link](./Final/Encrypted%20Computing)  |
+|  [RISC-V CPU with Tomasulo Algorithm](https://github.com/ChungChenWei/ACA-HLS-Final-Team2-Tomasulo-RISC-V)  | [link](./Final/RISC-V%20CPU%20with%20Tomasulo%20Algorithm/RISC-V%20CPU%20with%20Tomasulo%20Algorithm.pdf)  | [link](./Final/RISC-V%20CPU%20with%20Tomasulo%20Algorithm)  |
+|  [Hardware Design of Ciphers via HLS : the case of PRESENT](https://github.com/ANIIIIII/HLS_final_project)  | [link](./Final/Hardware%20Desgin%20of%20Ciphers%20via%20HLS%20%20The%20Case%20of%20PRESENT/Hardware%20Desgin%20of%20Ciphers%20via%20HLS%20%20The%20Case%20of%20PRESENT.pdf)  | [link](./Final/Hardware%20Desgin%20of%20Ciphers%20via%20HLS%20%20The%20Case%20of%20PRESENT)  |
+|  [SBM for HFT](https://github.com/e841018/SBM4HFT)  | [link](./Final/SBM%20for%20HFT/SBM%20for%20HFT.pdf)  | [link](./Final/SBM%20for%20HFT)  |
+|  [Efficient deconvolution with HLS](https://github.com/learningstud/hls_deconvolution)  | [link](./Final/Efficient%20Deconvolution%20with%20HLS/Final%20Project%20Efficient%20Deconvolution%20with%20HLS.pdf)  | [link](./Final/Efficient%20Deconvolution%20with%20HLS)  |
+|  [Optical flow](https://github.com/yuweitt/Final-Project-Optical-Flow)  | [link](./Final/Optical%20Flow/Optical%20Flow.pdf)  | [link](./Final/Optical%20Flow)  |
+|  [Harris Corner Detector](https://github.com/yqchenee/ACA_21S_final)  | [link](./Final/Harris%20Corner%20Detector/Harris%20Corner%20Detector.pdf)  | [link](./Final/Harris%20Corner%20Detector)  |
+|  [Implementation of Simulated Quantum Annealing using HLS](https://github.com/allen880117/Simulated-Quantum-Annealing)  | [link](./Final/Simulated%20Quantum%20Annealing/HLS-Team-9-SQA.pdf)  | [link](./Final/Simulated%20Quantum%20Annealing)  |
+|  System Design on Xilinx Algorithmic Trading  Platform(non-public)  | [link](./Final/AAT%20platform/AAT%20platform.pdf)  | (non-public)   |
+|  [COMET with branch predictor](https://github.com/s950449/Comet_With_Branch_Predictor/)  | [link](./Final/Comet%20with%20Branch%20Predictor/Comet%20with%20Branch%20Predictor.pdf)  | [link](./Final/Comet%20with%20Branch%20Predictor)  |
+|  [DNA Sequence Analysis Acceleration](https://github.com/soyccan/hls_project)  | [link](./Final/DNA%20Sequence%20Analysis%20Acceleration/DNA%20Sequence%20Analysis%20Acceleration.pdf)  | [link](./Final/DNA%20Sequence%20Analysis%20Acceleration)  |
 
 

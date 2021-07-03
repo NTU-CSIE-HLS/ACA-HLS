@@ -27,10 +27,24 @@ The project is a collection of projects of the course "Advanced Computer Archite
 Note: The platform used by the projects, include PYNQ-Z2, and Xilinx U50.
 
 ## Lab A
-Lab A is about HLS Blue Book. This part provides implementation for High-Level Synthesis Blue Book's Examples using Xilinx HLS. We organize the contents in another repo [HLS_BLue_Book](https://github.com/NTU-CSIE-HLS/HLS_BLue_Book)
+Lab A is about HLS Blue Book. This part provides implementation for High-Level Synthesis Blue Book's Examples using Xilinx HLS. We organize the contents in another repo [HLS_BLue_Book](https://github.com/NTU-CSIE-HLS/HLS_BLue_Book).
 
 ## Lab B
-Improved Existing Projects
+Lab B is about Improved Existing Projects.
+
+|  Topics   | Slides  | Backup  |
+|  ----  | ----  |
+| swater  | link |link |
+| sha256  | link |link |
+| BNN  | link |link |
+| K-NN  | link |link |
+| beamf  | link |link |
+| Spare Matrix Vector  | link |link |
+| ethash  | link |link |
+| CORDIC  | link |link |
+| XAPP890 - Sobel Filter  | link |link |
+| point5  | link |link |
+
 
 ## Final Projects
 

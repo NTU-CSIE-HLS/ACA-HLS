@@ -9,10 +9,10 @@ Advanced Computer Architecture with High-Level-Synthesis [2021 Spring]
       <a href="#about-this-project">About This Project</a>
     </li>
     <li>
-      <a href="#lab-A">Lab A: HLS Blue Book</a>
+      <a href="#lab-a">Lab A</a>
     </li>
     <li>
-      <a href="#lab-B">Lab B: Improved Existing Projects</a>
+      <a href="#lab-b">Lab B</a>
     </li>
     <li>
       <a href="#final-projects">Final Projects</a>

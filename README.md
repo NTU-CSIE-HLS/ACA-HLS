@@ -17,7 +17,8 @@ Advanced Computer Architecture with High-Level-Synthesis [2021 Spring]
     <li>
       <a href="#final-projects">Final Projects</a>
     </li>
-  </ol>
+  </ol> 
+  
 </details>
 
 <!-- ABOUT THIS PROJECT -->

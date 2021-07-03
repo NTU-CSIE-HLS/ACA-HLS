@@ -34,16 +34,16 @@ Lab B is about Improved Existing Projects.
 
 |  Topics   | Slides  | Backup  |
 |  ----  | ----  | ----  |
-| [swater](https://github.com/Leng-Kai/Smith-Waterman-HLS)  | [link](.//LabB/Smith-Waterman%20Algorithm/Smith-Waterman%20Algorithm.pdf) |link |
-| [sha256](https://github.com/allen880117/ACA-HLS-Lab-B-SHA256)  | link |link |
-| [BNN](https://github.com/eee4017/BNN-PYNQ)  | link |link |
-| [K-NN](https://github.com/kurimulion/ACA_LabB)  | link |link |
-| [beamf](https://github.com/e841018/beamformer)  | link |link |
-| [Spare Matrix Vector](https://github.com/kaiiiz/hls-spmv)  | link |link |
-| [ethash](https://github.com/agenda425/hls_ethash)  | link |link |
-| [CORDIC](https://github.com/405410605/LAB_B_CRODIC)  | link |link |
-| [XAPP890 - Sobel Filter](https://github.com/yuweitt/HLS_LabB_SobelFilter)  | link |link |
-| [point5](https://github.com/mouvemance/HLSLabB_point5)  | link |link |
+| [swater](https://github.com/Leng-Kai/Smith-Waterman-HLS)  | [link](.//LabB/Smith-Waterman%20Algorithm/Smith-Waterman%20Algorithm.pdf) |[link](./LabB/Smith-Waterman%20Algorithm) |
+| [sha256](https://github.com/allen880117/ACA-HLS-Lab-B-SHA256)  | [link](./LabB/SHA256/ACA-HLS-Lab%23B-SHA256.pdf) |[link](./LabB/SHA256) |
+| [BNN](https://github.com/eee4017/BNN-PYNQ)  | [link](./LabB/Binarized%20Neural%20Network/HLS%20Lab-B%20%20Quantized%20Neural%20Network.pdf) |[link](./LabB/Binarized%20Neural%20Network) |
+| [K-NN](https://github.com/kurimulion/ACA_LabB)  | [link](./LabB/KNN/K-NN游子慶%20(1).pptx) |[link](./LabB/KNN) |
+| [beamf](https://github.com/e841018/beamformer)  | [link](./LabB/Beamforming%20Acceleration/Beamforming%20Acceleration.pdf) |[link](./LabB/Beamforming%20Acceleration) |
+| [Spare Matrix Vector](https://github.com/kaiiiz/hls-spmv)  | [link](./LabB/Sparse%20Matrix%20Vector%20Multiplication/Sparse%20Matrix%20Vector%20Multiplication.pdf) |[link](./LabB/Sparse%20Matrix%20Vector%20Multiplication) |
+| [ethash](https://github.com/agenda425/hls_ethash)  | [link](./LabB/Ethash/Lab%20B%20-%20Ethash.pdf) |[link](./LabB/Ethash) |
+| [CORDIC](https://github.com/405410605/LAB_B_CRODIC)  | [link](./LabB/CORDIC/LAB_B%20CORDIC.pdf) |[link](./LabB/CORDIC) |
+| [XAPP890 - Sobel Filter](https://github.com/yuweitt/HLS_LabB_SobelFilter)  | [link](./LabB/Sobel%20Filter/Sobel%20Filter.pdf) |[link](./LabB/Sobel%20Filter) |
+| [point5](https://github.com/mouvemance/HLSLabB_point5)  | [link](./LabB/5-Point%20Relative%20Pose%20Problem/HLS%20Lab%20B_%205-Point.pdf) |[link](./LabB/5-Point%20Relative%20Pose%20Problem) |
 
 
 ## Final Projects

@@ -33,7 +33,7 @@ Lab A is about HLS Blue Book. This part provides implementation for High-Level S
 Lab B is about Improved Existing Projects.
 
 |  Topics   | Slides  | Backup  |
-|  ----  | ----  |
+|  ----  | ----  | ----  |
 | swater  | link |link |
 | sha256  | link |link |
 | BNN  | link |link |

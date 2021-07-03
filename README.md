@@ -27,7 +27,7 @@ The project is a collection of projects of the course "Advanced Computer Archite
 Note: The platform used by the projects, include PYNQ-Z2, and Xilinx U50.
 
 ## Lab A
-HLS Blue Book
+Lab A is about HLS Blue Book. This part provides implementation for High-Level Synthesis Blue Book's Examples using Xilinx HLS. We organize the contents in another repo [HLS_BLue_Book](https://github.com/NTU-CSIE-HLS/HLS_BLue_Book)
 
 ## Lab B
 Improved Existing Projects
